@@ -1,0 +1,6 @@
+[submodule "libs/x264"]
+	path = JNI/app/jni/external/x264
+	url = http://git.videolan.org/git/x264.git
+[submodule "JNI/app/jni/external/ffmpeg"]
+	path = JNI/app/jni/external/ffmpeg
+	url = https://git.ffmpeg.org/ffmpeg.git
